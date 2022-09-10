@@ -5,8 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>groupId</groupId>
-    <artifactId>CucumberBasics</artifactId>
-    <packaging>war</packaging>
+         <artifactId>CucumberBasics</artifactId>
     <version>1.0-SNAPSHOT</version>
     <properties>
          <maven.compiler.source>1.6</maven.compiler.source>
